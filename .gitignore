@@ -1,0 +1,6 @@
+# Datasets
+DATASETS/
+
+# binary code
+*.pyc
+
