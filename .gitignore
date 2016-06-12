@@ -4,3 +4,5 @@ DATASETS/
 # binary code
 *.pyc
 
+# credentials file
+credentials.json
